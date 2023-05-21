@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">database_sqlite</string>
+    <string name="sqlite_database">SQLite DataBase!</string>
+</resources>
